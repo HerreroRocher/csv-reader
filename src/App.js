@@ -69,7 +69,7 @@ function FileReader() {
     <>
       <p>
         Enter an ISIN No, and we will check if there's a corresponding record in our&nbsp; 
-        <a href="https://assets.publishing.service.gov.uk/media/668694c97541f54efe51b9db/20240703_Master-Weblist.ods">
+        <a href="https://assets.publishing.service.gov.uk/media/66c44db32e8f04b086cdf40b/approved-offshore-reporting-funds-list.ods">
           List of reporting funds A to Z
         </a> 
         &nbsp;of&nbsp; 
