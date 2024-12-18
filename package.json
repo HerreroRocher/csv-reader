@@ -2,7 +2,7 @@
   "name": "file-reader",
   "version": "0.1.0",
   "private": true,
-  "homepage": "herrerorocher.github.io/csv-reader",
+  "homepage": "https://herrerorocher.github.io/csv-reader/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
