@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/herrerorocher.github.io/csv-reader/static/css/main.bb805a4b.css",
-    "main.js": "/herrerorocher.github.io/csv-reader/static/js/main.1722e0fe.js",
-    "static/js/453.1dcea876.chunk.js": "/herrerorocher.github.io/csv-reader/static/js/453.1dcea876.chunk.js",
-    "index.html": "/herrerorocher.github.io/csv-reader/index.html",
-    "main.bb805a4b.css.map": "/herrerorocher.github.io/csv-reader/static/css/main.bb805a4b.css.map",
-    "main.1722e0fe.js.map": "/herrerorocher.github.io/csv-reader/static/js/main.1722e0fe.js.map",
-    "453.1dcea876.chunk.js.map": "/herrerorocher.github.io/csv-reader/static/js/453.1dcea876.chunk.js.map"
+    "main.css": "/csv-reader/static/css/main.bb805a4b.css",
+    "main.js": "/csv-reader/static/js/main.c1c547b8.js",
+    "static/js/453.1dcea876.chunk.js": "/csv-reader/static/js/453.1dcea876.chunk.js",
+    "index.html": "/csv-reader/index.html",
+    "main.bb805a4b.css.map": "/csv-reader/static/css/main.bb805a4b.css.map",
+    "main.c1c547b8.js.map": "/csv-reader/static/js/main.c1c547b8.js.map",
+    "453.1dcea876.chunk.js.map": "/csv-reader/static/js/453.1dcea876.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bb805a4b.css",
-    "static/js/main.1722e0fe.js"
+    "static/js/main.c1c547b8.js"
   ]
 }
